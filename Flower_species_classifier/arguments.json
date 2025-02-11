@@ -1,0 +1,9 @@
+{
+    "data_dir": "flowers/",
+    "save_dir": "checkpoint/",
+    "arch": "vgg16",
+    "learning_rate": "0.003",
+    "hidden_units": "512",
+    "epochs": "5",
+    "gpu": false
+}
